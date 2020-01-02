@@ -10,6 +10,7 @@ pojo属性元素注释获取：DatabaseIntrospector.java（629）
 
 目前存在问题：
     1、日志打印不详细
+    2、未对Mysql数据库进行验证
 
 版本1.0功能：
     1、基本mybatis逆向工程添加对lombok插件的支持；
